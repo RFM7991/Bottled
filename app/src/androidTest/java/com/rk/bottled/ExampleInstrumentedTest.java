@@ -1,4 +1,4 @@
-package com.r3dm4n.bottled;
+package com.rk.bottled;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

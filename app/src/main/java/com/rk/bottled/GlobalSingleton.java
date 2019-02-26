@@ -1,4 +1,4 @@
-package com.r3dm4n.bottled;
+package com.rk.bottled;
 
 import android.app.Application;
 

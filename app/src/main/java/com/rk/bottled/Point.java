@@ -1,4 +1,4 @@
-package com.r3dm4n.bottled;
+package com.rk.bottled;
 
 public class Point {
     float x, y;

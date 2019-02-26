@@ -1,4 +1,4 @@
-package com.r3dm4n.bottled;
+package com.rk.bottled;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -6,6 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Display;
 import android.view.WindowManager;
+
+import com.rk.bottled.R;
 
 public class DriverActivity extends AppCompatActivity {
 

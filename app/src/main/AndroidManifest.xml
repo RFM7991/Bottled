@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.r3dm4n.bottled">
+    package="com.rk.bottled">
 
     <application
         android:allowBackup="true"
@@ -8,9 +8,9 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
-        android:name="com.r3dm4n.bottled.GlobalSingleton">
+        android:name="com.rk.bottled.GlobalSingleton">
         <activity
-            android:name="com.r3dm4n.bottled.DriverActivity"
+            android:name="com.rk.bottled.DriverActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>

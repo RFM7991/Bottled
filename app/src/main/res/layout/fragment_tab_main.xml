@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="false"
-    tools:context="com.r3dm4n.bottled.MainFragment">
+    tools:context="com.rk.bottled.com.rk.bottled.MainFragment">
 
     <android.support.v4.view.ViewPager
         android:id="@+id/container_main"

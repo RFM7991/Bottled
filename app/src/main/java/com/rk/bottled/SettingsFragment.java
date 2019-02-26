@@ -1,10 +1,12 @@
-package com.r3dm4n.bottled;
+package com.rk.bottled;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.rk.bottled.R;
 
 public class SettingsFragment extends Fragment {
 
