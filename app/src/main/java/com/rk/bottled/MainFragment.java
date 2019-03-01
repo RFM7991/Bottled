@@ -17,7 +17,6 @@ public class MainFragment extends Fragment {
                              Bundle savedInstanceState) {
 
          view = inflater.inflate(R.layout.fragment_main, container, false);
-        ViewPager mViewPager = (ViewPager) view.findViewById(R.id.container_main);
     //    SectionsPagerAdapter mSectionsPagerAdapter = new SectionsPagerAdapter(getChildFragmentManager());
     //    mViewPager.setAdapter(mSectionsPagerAdapter);
 
